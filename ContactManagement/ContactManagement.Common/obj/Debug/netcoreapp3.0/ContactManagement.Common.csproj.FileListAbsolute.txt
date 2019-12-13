@@ -1,0 +1,8 @@
+D:\Projects\ContactManagement\ContactManagement.Common\obj\Debug\netcoreapp3.0\ContactManagement.Common.csprojAssemblyReference.cache
+D:\Projects\ContactManagement\ContactManagement.Common\obj\Debug\netcoreapp3.0\ContactManagement.Common.AssemblyInfoInputs.cache
+D:\Projects\ContactManagement\ContactManagement.Common\obj\Debug\netcoreapp3.0\ContactManagement.Common.AssemblyInfo.cs
+D:\Projects\ContactManagement\ContactManagement.Common\bin\Debug\netcoreapp3.0\ContactManagement.Common.deps.json
+D:\Projects\ContactManagement\ContactManagement.Common\bin\Debug\netcoreapp3.0\ContactManagement.Common.dll
+D:\Projects\ContactManagement\ContactManagement.Common\bin\Debug\netcoreapp3.0\ContactManagement.Common.pdb
+D:\Projects\ContactManagement\ContactManagement.Common\obj\Debug\netcoreapp3.0\ContactManagement.Common.dll
+D:\Projects\ContactManagement\ContactManagement.Common\obj\Debug\netcoreapp3.0\ContactManagement.Common.pdb
