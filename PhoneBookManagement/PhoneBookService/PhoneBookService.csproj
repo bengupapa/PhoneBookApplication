@@ -13,7 +13,7 @@
     <PackageReference Include="Microsoft.ServiceFabric.Diagnostics.Internal" Version="3.4.677" />
     <PackageReference Include="Microsoft.ServiceFabric.Services" Version="3.4.677" />
     <PackageReference Include="Microsoft.ServiceFabric.Services.Remoting" Version="3.4.677" />
-    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
     <PackageReference Include="ServiceFabric.Remoting.CustomHeaders" Version="3.0.12" />
     <PackageReference Include="SimpleInjector" Version="4.8.1" />
   </ItemGroup>
